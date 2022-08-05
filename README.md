@@ -1,2 +1,6 @@
-# portfolio
-my own portfolio
+
+# Portfolio
+
+This is my personal portfolio.
+
+
